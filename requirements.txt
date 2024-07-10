@@ -1,0 +1,16 @@
+python-dotenv
+openai
+requests
+datetime
+twilio
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+schedule
+pydantic_settings
+SQLAlchemy==1.4.0
+fastapi==0.111.0
+fastapi-cli==0.0.2
+psycopg2-binary
+python-dateutil
